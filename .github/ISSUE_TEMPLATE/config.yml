@@ -1,0 +1,2 @@
+# 允许不套模板的空白 issue（有些发现用自由格式写更清楚）
+blank_issues_enabled: true
